@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADzGuy</title>
+    <description></description>
+    <link>https://adzguy.github.io/blog/</link>
+    <atom:link href="https://adzguy.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 31 Aug 2019 01:21:20 -0500</pubDate>
+    <lastBuildDate>Sat, 31 Aug 2019 01:21:20 -0500</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Happy Jekylling</title>
+        <description>&lt;p&gt;Jekyll is a static website generator, and static web generators are increasingly getting popular these days. I found that Jekyll is so convenient and easy to use for bloging, etc because they make it possible to run a website without maintaining a database and server. You also don’t need to worry about the updates. Most important one is to get rid of your security problems. If you don’t want to spend time and doing backend then Jekyll would be your best choice. Jekyll is open source and free. Happy Jekylling!!&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 13 May 2019 09:30:52 -0500</pubDate>
+        <link>https://adzguy.github.io/blog/blog/2019/happy-jekylling/</link>
+        <guid isPermaLink="true">https://adzguy.github.io/blog/blog/2019/happy-jekylling/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Re-engineering vs Refactoring | Software Maintenance</title>
+        <description>&lt;p&gt;They both look like the similar at the beginning, when we deal with the legacy software. Legacy software is the ones that some programs have been left to run without changes to the broken parts of a system. At either process, refactoring or reengineering, refactoring is used in a first step then progresses to re-engineering. When the legacy code is too complex, refactoring is worthwhile to use to improve the efficiency of the algorithms before stepping on to re-engineering it (2016).&lt;/p&gt;
+
+&lt;p&gt;However, there are few differences between refactoring and reengineering. One of the main difference is that re-engineering affects the entire system or part of the system and can create a whole new system whereas refactoring has many local effects and improves the structure of an existing system (n.d). In addition, it also makes sense that the cost of re-engineering is higher than refactoring if we consider refactoring is just a local changes in a software structure.&lt;/p&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;p&gt;Re-engineering versus refactoring (2016). The Craft Of Coding. Retrieved April 12, 2017, from https://craftofcoding.wordpress.com/2016/02/23/re-engineering-versus-refactoring/&lt;/p&gt;
+
+&lt;p&gt;Re-engineering vs. Refactoring in software development (n.d.). Retrieved April 13, 2017, from http://newserverside.blogspot.com/2011/09/re-engineering-vs-refactoring-in.html&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Apr 2017 09:30:52 -0500</pubDate>
+        <link>https://adzguy.github.io/blog/blog/2017/Software-Maintenance/</link>
+        <guid isPermaLink="true">https://adzguy.github.io/blog/blog/2017/Software-Maintenance/</guid>
+        
+        
+        <category>Software</category>
+        
+        <category>Maintenace</category>
+        
+      </item>
+    
+      <item>
+        <title>Challenges in Testing Mobile Applications</title>
+        <description>&lt;p&gt;There are severals factors that make testing mobile applications more challenging process for mobile app developers. Those are the device variation, fragmentation of manufacturers, screen size, operating systems and mobile network operators that exist in nowadays (Chak). Among those challenges, I think the most relevant or biggest mobile testing challenge could be a fragmentation of devices end-users have in their pocket.&lt;/p&gt;
+
+&lt;p&gt;According to statistics, as for August 2015, there were more than 24,000 different Android devices available in the market and they have different size, shape, and hardware that give mobile app developers more challenge in testing their applications (Hechtel). Also there are different type of hardwares that run on different operating systems like Apple or Samsung. For this reason, mobile application developers would have difficulty in testing their applications due to compatibility issues.&lt;/p&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;p&gt;Chak, A. (May 14, 2017). Major Challenges for Mobile Testing. Retrieved April 4, 2017, from http://www.360logica.com/blog/2014/05/challenges-faced-in-mobile-app-testing.html&lt;/p&gt;
+
+&lt;p&gt;Hechtel, E. (August 17, 2016). What are Mobile App Testing Challenges? Retrieved April 4, 2017, from https://saucelabs.com/blog/what-are-mobile-app-testing-challenges&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Apr 2017 09:30:52 -0500</pubDate>
+        <link>https://adzguy.github.io/blog/blog/2017/Testing-Mobile-Applications/</link>
+        <guid isPermaLink="true">https://adzguy.github.io/blog/blog/2017/Testing-Mobile-Applications/</guid>
+        
+        
+        <category>testing</category>
+        
+        <category>mobile</category>
+        
+        <category>apps</category>
+        
+      </item>
+    
+      <item>
+        <title>White-Box vs Black-Box Testing Efficiency | Quality Assurance</title>
+        <description>&lt;p&gt;Black-box testing strategy treats software that is under test as a black-box without knowing its internals and uses software interfaces to ensure that they are working as expected. Whereas, a white-box testing strategy which is also known as clear box testing or glass box testing looks inside the software that is being tested and uses that information as one of the processes in testing. In other words, black-box testing validates the requirements and specifications while white-box testing validates the code of the software (Bartlett).&lt;/p&gt;
+
+&lt;p&gt;They both have its advantages and disadvantages and I think they almost equally important to have them in testing the software. According to a site called Technology Conversations, the blogger Viktor Farcic states that one of the advantages of white-box testing is that it is efficient in finding errors and problems in software compare to black-box testing. Although, he has not shown any proof of that statement. I think he states that because the maximum coverage is obtained due to required internal knowledge of the software, whereas the internal knowledge is not needed in black-box testing.&lt;/p&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;p&gt;Bartlett, J. (2016). What is the difference between black-box and white-box testing? Retrieved April 4, 2017, from https://blog.testlodge.com/what-is-the-difference-between-black-box-and-white-box-testing/&lt;/p&gt;
+
+&lt;p&gt;Farcic, V. (n.d). Black-box vs. White-box testing. Technology Conversation. Retrieved April 4, 2017, from https://technologyconversations.com/2013/12/11/black-box-vs-white-box-testing/&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Apr 2017 09:30:52 -0500</pubDate>
+        <link>https://adzguy.github.io/blog/blog/2017/Quality-Assurance/</link>
+        <guid isPermaLink="true">https://adzguy.github.io/blog/blog/2017/Quality-Assurance/</guid>
+        
+        
+        <category>quality</category>
+        
+        <category>assurance</category>
+        
+      </item>
+    
+      <item>
+        <title>Different levels of Requirements in Software Engineering</title>
+        <description>&lt;p&gt;There are many different types of requirements, which are raised by the stakeholders of a particular project. The most of the requirements are raised typically at the start of the project, it is also likely that further requirements will be raised during later stages of the project. In an Agile based project, requirements will be raised on an ongoing basis although requirements will also be raised with most of the significant and larger requirements to be raised early on in the project. The writer of an article in Business Analysis Essentials, Esta Lessing states that all the different types of requirements that are provided need to be classified within its category in order to be able to manage the requirements process effectively. Once you understand the different types of requirements very clearly, this becomes a natural and easy task to identify when a requirement is in fact a requirement and then to determine what type of requirement it is.(2015)&lt;/p&gt;
+
+&lt;p&gt;In the book of Software Engineering by Sommerville states that there are two main requirement types, which are user and systems requirements.(Chapter 4) User requirements are written from the user’s point of view. They are high-level requirements written as statements in natural languages and diagrams. System requirements are functional and nonfunctional requirements. The functional requirements define what the system must do to process the user inputs and provide the user with their desired outputs, whereas nonfunctional requirements define the attributes of the user and the system environment.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+
+&lt;p&gt;Esta Lessing, (2015, January 7). Type of Requirements in Business Analysis. http://business-analysis-excellence.com/types-of-requirements/&lt;/p&gt;
+
+&lt;p&gt;Sommerville, Software Engineering, 9 ed., Chapter 4. Link: http://www.cs.ccsu.edu/~stan/classes/CS530/notes14/04-Requirements.html&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Feb 2017 08:30:52 -0600</pubDate>
+        <link>https://adzguy.github.io/blog/blog/2017/Different-Requirements-in-Software-Engineering/</link>
+        <guid isPermaLink="true">https://adzguy.github.io/blog/blog/2017/Different-Requirements-in-Software-Engineering/</guid>
+        
+        
+        <category>requirements</category>
+        
+        <category>engineering</category>
+        
+      </item>
+    
+      <item>
+        <title>Agile Methodology in Software Development</title>
+        <description>&lt;p&gt;Agile process methodology in software development has four main principles that distinguish itself from early software process models. Those are; individuals and interactions over processes and tools, working software over documentation, customer collaboration over negotiation, responding to change over following a plan (Boehm, 2016, p. 8). These values provide opportunities to assess the direction of a project throughout the development lifecycle. For example, when a development team stops and re-evaluates the direction of a project every two weeks or four weeks, there’s always time to adjust/change it in another direction. Due to the result of this approach to develop, it greatly reduces development cost and moreover, it’s time to market. Whereas, when we consider sequential process model, it does everything opposite to agile model of development.&lt;/p&gt;
+
+&lt;p&gt;Reference :&lt;/p&gt;
+
+&lt;p&gt;Boehm, B. (2006). A view of 20th and 21st-century software engineering. International Conference on Software Engineering, 12-29.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Feb 2017 08:30:52 -0600</pubDate>
+        <link>https://adzguy.github.io/blog/blog/2017/Agile-Process-in-Software-Development/</link>
+        <guid isPermaLink="true">https://adzguy.github.io/blog/blog/2017/Agile-Process-in-Software-Development/</guid>
+        
+        
+        <category>agile</category>
+        
+        <category>methodology</category>
+        
+      </item>
+    
+  </channel>
+</rss>
